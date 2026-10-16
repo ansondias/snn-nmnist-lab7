@@ -1,0 +1,6 @@
+# Lab 7 — SNN on N-MNIST. Google Colab (Runtime -> Run all) is recommended;
+# the notebook's first cells install Brian2 and download N-MNIST (~1 GB).
+brian2>=2.5
+torch>=2.0
+numpy>=1.24
+matplotlib>=3.7

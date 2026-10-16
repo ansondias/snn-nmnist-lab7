@@ -1,0 +1,7 @@
+data/
+*.zip
+lab7_results.json
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
